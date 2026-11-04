@@ -1,6 +1,6 @@
-# Política de privacidad de RelevoParking
+# Política de privacidad de Relevo
 
-Última actualización: 4 de noviembre de 2026. Esta política describe la edición de RelevoParking preparada para Microsoft Store.
+Última actualización: 4 de noviembre de 2026. Esta política describe la edición de Relevo preparada para Microsoft Store.
 
 ## Quién mantiene el proyecto
 
@@ -8,7 +8,7 @@ El proyecto se mantiene mediante la cuenta de GitHub [KoroBli](https://github.co
 
 ## Información guardada en el equipo
 
-RelevoParking guarda localmente las anotaciones, los turnos, el histórico de cambios, los ajustes de copias y un borrador de anotación. No requiere cuentas, nombres ni contraseñas de trabajadores y no atribuye las acciones a personas.
+Relevo guarda localmente las anotaciones, los turnos, el histórico de cambios, los ajustes de copias y un borrador de anotación. No requiere cuentas, nombres ni contraseñas de trabajadores y no atribuye las acciones a personas.
 
 El contenido lo decide quien utiliza la agenda y puede contener datos personales si se introducen. Evita incluir nombres, matrículas u otros datos personales innecesarios. La organización que utilice la agenda decide qué información registra, quién accede al equipo y durante cuánto tiempo necesita conservarla.
 

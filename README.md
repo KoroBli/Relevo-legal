@@ -1,6 +1,6 @@
 # Relevo-legal
 
-Documentación pública de privacidad de RelevoParking.
+Documentación pública de privacidad de Relevo.
 
 - [Política de privacidad](https://korobli.github.io/Relevo-legal/)
 - [Versión en texto](privacidad.md)
