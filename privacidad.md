@@ -1,6 +1,6 @@
 # Política de privacidad de Relevo
 
-Última actualización: 4 de noviembre de 2026. Esta política describe la edición de Relevo preparada para Microsoft Store.
+Última actualización: 7 de noviembre de 2026. Esta política describe la edición de Relevo preparada para Microsoft Store.
 
 ## Quién mantiene el proyecto
 
@@ -8,7 +8,7 @@ El proyecto se mantiene mediante la cuenta de GitHub [KoroBli](https://github.co
 
 ## Información guardada en el equipo
 
-Relevo guarda localmente las anotaciones, los turnos, el histórico de cambios, los ajustes de copias y un borrador de anotación. No requiere cuentas, nombres ni contraseñas de trabajadores y no atribuye las acciones a personas.
+Relevo guarda localmente las anotaciones y el histórico de cambios, los ajustes de copias y un borrador de anotación. No requiere cuentas, nombres ni contraseñas de trabajadores y no atribuye las acciones a personas. Las actualizaciones conservan los registros anteriores, incluidos los turnos registrados en versiones previas. Desde la versión 0.3.0 no es necesario iniciar turnos.
 
 El contenido lo decide quien utiliza la agenda y puede contener datos personales si se introducen. Evita incluir nombres, matrículas u otros datos personales innecesarios. La organización que utilice la agenda decide qué información registra, quién accede al equipo y durante cuánto tiempo necesita conservarla.
 
@@ -22,7 +22,7 @@ La instalación y las actualizaciones de la edición Store se gestionan a travé
 
 Las copias incluyen la base de datos y, si existen, los ajustes y el borrador. Se guardan en el destino elegido por quien utiliza la aplicación. El mantenedor no recibe esas copias. Si se utiliza una carpeta de red o sincronizada por otra herramienta, el acceso y las comunicaciones de esa herramienta dependen de su configuración y de su proveedor.
 
-Se conservan las últimas 30 copias diarias y la primera copia diaria válida de cada una de las últimas ocho semanas con copia disponible. Las copias manuales y previas a una actualización de esquema no se eliminan automáticamente. Esta retención no elimina el histórico de la agenda activa.
+Desde la versión 0.3.0, Backups dentro de los datos de la aplicación es el destino predeterminado; puede cambiarse. Se conservan las cinco últimas copias normales (automáticas o manuales), eliminando la antigua solo después de verificar la nueva. Se hace una diaria a las 00:00 de Madrid cuando está abierta; si estaba cerrada o dormida, se recupera al volver a usarla. Las copias previas a migraciones y los rescates se protegen aparte. Versiones anteriores conservaban 30 diarias y ocho semanales, con manuales separadas. Ninguna de estas retenciones elimina el histórico de la agenda activa.
 
 ## Acceso y protección
 
@@ -30,7 +30,7 @@ Los datos se guardan en el perfil del usuario de Windows. La aplicación no ofre
 
 ## Conservación y eliminación
 
-Las tareas permanecen pendientes hasta completarse. Los avisos pasan al histórico a las 168 horas de su creación. Completar o archivar no elimina el contenido: el histórico y la auditoría se conservan sin purga automática.
+Las tareas permanecen pendientes hasta completarse. Desde la versión 0.3.0 las notas se muestran en el día natural de creación y el siguiente, según Europe/Madrid, y después pasan al histórico. Las tareas completadas se agrupan por su día de resolución. En versiones anteriores los avisos pasaban al histórico a las 168 horas. Completar o archivar no elimina el contenido: el histórico y la auditoría se conservan sin purga automática.
 
 Para eliminar todos los datos locales, cierra la aplicación y utiliza las opciones de restablecimiento o desinstalación de Windows. Conserva antes una copia externa si necesitas recuperar la agenda. Las copias externas y los rescates previos a una restauración deben eliminarse por separado en su ubicación. Restaurar una copia puede recuperar información que contenga y reemplazar cambios posteriores.
 
